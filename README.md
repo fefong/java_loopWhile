@@ -15,9 +15,19 @@ do {
 } while (condition);
 ```
 
+**Code snipped**
+```java
+int i=0;
+do {
+ // TODO
+System.out.println(i);
+i++;
+} while (i < 10);
+```
+
 ## While
 
-![while](resources/image_while.png "Loop Structure: While")
+![While](resources/image_while.png "Loop Structure: While")
 
 ```java
 while (condition) {
@@ -25,6 +35,15 @@ while (condition) {
 }
 ```
 
+**Code snipped**
+```java
+int i=0;
+while (i < 10) {
+ // TODO
+System.out.println(i);
+i++;
+}
+```
 
 ## Some links for more in depth learning
 
